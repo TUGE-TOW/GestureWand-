@@ -1,0 +1,1 @@
+{'input_1': [4, 0], 'conv1d': [5, 0], 'batch_normalization': [5, 0], 're_lu': [5, 0], 'dropout': [5, 0], 'conv1d_1': [5, 0], 'batch_normalization_1': [5, 0], 're_lu_1': [5, 0], 'conv1d_2': [5, 0], 'batch_normalization_2': [5, 0], 're_lu_2': [5, 0], 'global_average_pooling1d': [5, 0], 'dense': [5, 0], 're_lu_3': [5, 0], 'dropout_1': [5, 0], 'dense_1': [4, 0], 'softmax': [7, 0]}
